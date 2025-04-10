@@ -1,3 +1,5 @@
 number1
 number2
 number4 branch2 is added
+line no 2 in added in branch1
+line no 2 is added in branch2
